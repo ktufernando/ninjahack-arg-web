@@ -1,6 +1,6 @@
-# ninjahack-arg-web
+# Front - Hackathon BBVA 2018
 
-App web with Angular for Ninja Hackathon
+App web with Angular for Ninja Hackathon BBVA Spain 2018
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.2.
 
